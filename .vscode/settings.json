@@ -1,7 +1,8 @@
 {
-  "editor.tabSize": 2,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit"
-  },
-  "eslint.run": "onSave",
+  "search.useIgnoreFiles": true,
+  "search.useParentIgnoreFiles": true,
+  "search.useGlobalIgnoreFiles": true,
+  "search.exclude": {
+    "**/node_modules": false
+  }
 }

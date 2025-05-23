@@ -482,7 +482,7 @@
           </div>
           <img
             class="mb-4"
-            src="@/assets/curso/temas/28.png"
+            src="@/assets/curso/temas/28.svg"
             alt="La Figura 2 se denomina «Ejemplo variables dependientes e independientes» presenta un ejemplo gráfico de la relación entre las dos variables."
           />
           <figcaption>Fuente: OIT, 2024.s</figcaption>

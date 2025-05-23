@@ -188,7 +188,7 @@
       </div>
       <Separador></Separador>
       <div
-        id="t_2_1"
+        id="t_2_2"
         class="titulo-segundo color-acento-contenido"
         data-aos="fade-right"
       >

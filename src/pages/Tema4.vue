@@ -1,4 +1,4 @@
-<template>
+<template lang="">
   <div class="curso-main-container pb-3">
     <BannerInterno></BannerInterno>
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5 fondo-5">
@@ -376,7 +376,7 @@
       </div>
       <div class="mn fondo-slyde p-5 mb-5">
         <div class="tarjeta bg-white p-5">
-          <SlyderA tipo="b">
+          <CarouselRED tipo="b">
             <div class="row justify-content-center">
               <div class="col-lg-6 mb-4 mb-md-0">
                 <h5>Matrices de datos</h5>
@@ -448,7 +448,7 @@
                 </figure>
               </div>
             </div>
-          </SlyderA>
+          </CarouselRED>
         </div>
       </div>
     </div>
