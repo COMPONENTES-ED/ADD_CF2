@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1330" height="7773" viewBox="0 0 1330 7773">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#effaf4" stop-opacity="0"/>
+      <stop offset="0.238" stop-color="#effaf4"/>
+      <stop offset="0.737" stop-color="#effaf4"/>
+      <stop offset="1" stop-color="#effaf4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.251" stop-color="#f9f7f4"/>
+      <stop offset="0.483" stop-color="#f9f7f4"/>
+      <stop offset="0.739" stop-color="#f9f7f4"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_400928" data-name="Rectángulo 400928" width="218" height="370" fill="#12263f" opacity="0.4"/>
+    </clipPath>
+    <filter id="Elipse_11440" x="1098.646" y="3083.614" width="444.421" height="444.421" filterUnits="userSpaceOnUse">
+      <feOffset dx="9.39" dy="9.39" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.04" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_400929" data-name="Rectángulo 400929" width="220" height="374" transform="translate(0 -0.337)" fill="#12263f" opacity="0.4"/>
+    </clipPath>
+    <filter id="Trazado_872939" x="-195.739" y="2534.89" width="447.496" height="447.496" filterUnits="userSpaceOnUse">
+      <feOffset dx="9.39" dy="9.39" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.04" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_11440-2" x="1098.197" y="6465.996" width="444.421" height="444.421" filterUnits="userSpaceOnUse">
+      <feOffset dx="9.39" dy="9.39" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.04" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_872939-2" x="-196.188" y="5917.271" width="447.496" height="447.496" filterUnits="userSpaceOnUse">
+      <feOffset dx="9.39" dy="9.39" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.04" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1101836" data-name="Grupo 1101836" transform="translate(-135.051 -240)">
+    <rect id="Rectángulo_575" data-name="Rectángulo 575" width="1328" height="7773" rx="20" transform="translate(136 240)" fill="#fff"/>
+    <rect id="Rectángulo_401625" data-name="Rectángulo 401625" width="1330" height="980" transform="translate(135.051 351)" fill="url(#linear-gradient)"/>
+    <g id="Grupo_1101545" data-name="Grupo 1101545" transform="translate(-0.5 2376.618)">
+      <rect id="Rectángulo_400930" data-name="Rectángulo 400930" width="1329" height="805" transform="translate(136 542)" fill="url(#linear-gradient-2)"/>
+      <g id="Enmascarar_grupo_1098648" data-name="Enmascarar grupo 1098648" transform="translate(1247 977)" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, -1111.45, -3113.62)" filter="url(#Elipse_11440)">
+          <circle id="Elipse_11440-3" data-name="Elipse 11440" cx="147.091" cy="147.091" r="147.091" transform="translate(1164.38 3149.34)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Enmascarar_grupo_1098649" data-name="Enmascarar grupo 1098649" transform="translate(136 428.337)" clip-path="url(#clip-path-2)">
+        <g transform="matrix(1, 0, 0, 1, -0.45, -2564.96)" filter="url(#Trazado_872939)">
+          <path id="Trazado_872939-3" data-name="Trazado 872939" d="M148.628,0A148.628,148.628,0,1,1,0,148.628,148.628,148.628,0,0,1,148.628,0Z" transform="translate(-130.01 2600.62)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Grupo_1101607" data-name="Grupo 1101607" transform="translate(-0.949 5759)">
+      <rect id="Rectángulo_400930-2" data-name="Rectángulo 400930" width="1329" height="805" transform="translate(136 542)" fill="url(#linear-gradient-2)"/>
+      <g id="Enmascarar_grupo_1098648-2" data-name="Enmascarar grupo 1098648" transform="translate(1247 977)" clip-path="url(#clip-path)">
+        <g transform="matrix(1, 0, 0, 1, -1111, -6496)" filter="url(#Elipse_11440-2)">
+          <circle id="Elipse_11440-4" data-name="Elipse 11440" cx="147.091" cy="147.091" r="147.091" transform="translate(1163.93 6531.73)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Enmascarar_grupo_1098649-2" data-name="Enmascarar grupo 1098649" transform="translate(136 428.337)" clip-path="url(#clip-path-2)">
+        <g transform="matrix(1, 0, 0, 1, 0, -5947.34)" filter="url(#Trazado_872939-2)">
+          <path id="Trazado_872939-4" data-name="Trazado 872939" d="M148.628,0A148.628,148.628,0,1,1,0,148.628,148.628,148.628,0,0,1,148.628,0Z" transform="translate(-130.46 5983)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
