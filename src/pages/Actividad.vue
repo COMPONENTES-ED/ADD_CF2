@@ -21,13 +21,13 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre organización de datos y variables
-              estadísticas.
+              Prueba de conocimientos sobre Organización de datos y variables
+              estadísticas
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre sobre organización de datos
-            y variables estadísticas. Esto se trabaja con el propósito de buscar
+            Validar el conocimiento adquirido sobre Organización de datos y
+            variables estadísticas. Esto se trabaja con el propósito de buscar
             una dinámica de razonamiento ágil sobre opciones cerradas y
             reafirmar un conocimiento declarado dentro del componente.
           </p>
